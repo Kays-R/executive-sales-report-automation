@@ -1,8 +1,8 @@
-# Employee Status Dashboard Generator
+# Executive Sales Report Automation
 
 ## Overview
 
-This project automates the generation of an **Employee Status Report** by consolidating data from multiple business sources, including Targets, Sales, HRMS, Customer Master, Outstanding, COB, and Organizational Hierarchy.
+This project automates the generation of an **Employee Status Report** by consolidating data from multiple business sources, including Targets, Sales, Human Resources Master Data, Customer Master, Billing, Booking Order, and Organizational Hierarchy.
 
 ## Python data processing pipeline:
 The script calculates Year-to-Date (YTD) targets and sales, validates employees, computes achievement percentages, maps organizational information, and produces a formatted Excel report.
